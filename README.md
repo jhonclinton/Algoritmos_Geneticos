@@ -6,10 +6,9 @@ Este repositorio contiene la implementación de **Algoritmos Genéticos (AG)** a
 
 ## 📊 Datasets Utilizados
 
-Se utilizan dos datasets principales de la librería `scikit-learn`:
+Se utilizan un datasets principales de la librería `scikit-learn`:
 
 * **Breast Cancer Wisconsin**: 569 muestras con 30 características para diagnóstico de tumores (utilizado en Selección y Optimización).
-* **Iris Dataset**: 150 muestras y 4 características para clasificación de flores (utilizado en Neuroevolución).
 
 ---
 
