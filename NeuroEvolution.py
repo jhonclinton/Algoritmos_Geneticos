@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║   NEUROEVOLUCIÓN - EJEMPLO 1                                     ║
 ║   Hallar la mejor arquitectura de red neuronal con AG            ║
-║   Dataset: Iris (clasificación)                                  ║
+║   Dataset: Breast_cancer (clasificación)                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 CICLO DEL ALGORITMO GENÉTICO:
@@ -144,7 +144,7 @@ def mutacion(cromosoma):
 
 def algoritmo_genetico():
     print("=" * 60)
-    print("  NEUROEVOLUCIÓN — Búsqueda de Arquitectura (Iris)")
+    print("  NEUROEVOLUCIÓN — Búsqueda de Arquitectura (Breast_Cancer)")
     print("=" * 60)
 
     poblacion = inicializar_poblacion()
