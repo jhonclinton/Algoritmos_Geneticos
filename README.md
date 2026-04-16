@@ -1,10 +1,10 @@
-# 🧬 Algoritmos Genéticos Aplicados a Machine Learning
+# Algoritmos Genéticos Aplicados a Machine Learning
 
 Este repositorio contiene la implementación de **Algoritmos Genéticos (AG)** aplicados a tres problemas fundamentales en el aprendizaje de máquina. El objetivo es demostrar cómo la evolución artificial puede sustituir procesos de búsqueda manuales o exhaustivos.
 
 ---
 
-## 📊 Datasets Utilizados
+##  Datasets Utilizados
 
 Se utilizan un datasets principales de la librería `scikit-learn`:
 
@@ -12,7 +12,7 @@ Se utilizan un datasets principales de la librería `scikit-learn`:
 
 ---
 
-## 🔍 1. Feature Selection (Selección de Características)
+##  1. Feature Selection (Selección de Características)
 
 Se implementa un AG para seleccionar el subconjunto óptimo de variables que maximiza la precisión del modelo, reduciendo la dimensionalidad y eliminando ruido.
 
@@ -25,7 +25,7 @@ Se implementa un AG para seleccionar el subconjunto óptimo de variables que max
 
 ---
 
-## ⚙️ 2. Hyperparameter Optimization (Optimización)
+##  2. Hyperparameter Optimization (Optimización)
 
 Optimización de parámetros críticos de un modelo **Random Forest** para equilibrar sesgo y varianza.
 
@@ -40,7 +40,7 @@ Optimización de parámetros críticos de un modelo **Random Forest** para equil
 
 ---
 
-## 🧠 3. NeuroEvolution (Búsqueda de Arquitectura)
+##  3. NeuroEvolution (Búsqueda de Arquitectura)
 
 Uso de neuroevolución para "auto-diseñar" la estructura de una **Red Neuronal (MLP)**.
 
@@ -52,7 +52,7 @@ Uso de neuroevolución para "auto-diseñar" la estructura de una **Red Neuronal 
 
 ---
 
-## 🚀 Ejecución
+##  Ejecución
 
 Los notebooks y scripts pueden ejecutarse en **Google Colab** o de forma local.
 
@@ -66,7 +66,7 @@ Los notebooks y scripts pueden ejecutarse en **Google Colab** o de forma local.
 
 ---
 
-## 🛠️ Requisitos
+##  Requisitos
 * Python 3.x
 * NumPy
 * Scikit-learn
@@ -74,6 +74,6 @@ Los notebooks y scripts pueden ejecutarse en **Google Colab** o de forma local.
 
 ---
 
-## 📝 Conclusión
+##  Conclusión
 
 Los algoritmos genéticos demostraron ser una herramienta versátil. Mientras que en **Iris** se alcanzó la perfección rápidamente por su separabilidad, en **Breast Cancer** el límite del **99.12%** representa un estado de generalización óptimo. El proyecto evidencia que los AG pueden automatizar el diseño de modelos de Machine Learning de manera eficiente.
